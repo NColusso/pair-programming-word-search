@@ -1,3 +1,5 @@
+// Completed by Natasha Colusso and Michael Xiang
+
 const chai = require('chai');
 const assert = chai.assert;
 
